@@ -1,7 +1,7 @@
 c = 1
 j = 6.1
 r = "razie"
-print(c, j, "razie")
+print(c, j, r)
 d = ["relindis", "richard", "clarence", "thelma", "samuel"]
 print(type(d))
 print(d[0])
