@@ -1,4 +1,5 @@
-def my_name(my name is )
+def my_name(name):
+    print("my name is", name)
 
 
-print(name, "rels")
+# my_name("rels")
